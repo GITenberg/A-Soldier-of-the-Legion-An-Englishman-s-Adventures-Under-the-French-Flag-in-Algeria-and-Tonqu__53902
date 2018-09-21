@@ -1,0 +1,34 @@
+_repo: A-Soldier-of-the-Legion-An-Englishman-s-Adventures-Under-the-French-Flag-in-Algeria-and-Tonqu__53902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manington, George
+    gutenberg_agent_id: '47605'
+    url: http://www.gutenberg.org/2009/agents/47605
+  editors:
+  - agent_name: Sarl, Arthur J.
+    gutenberg_agent_id: '47607'
+    url: http://www.gutenberg.org/2009/agents/47607
+  - agent_name: Slater, William B.
+    gutenberg_agent_id: '47606'
+    url: http://www.gutenberg.org/2009/agents/47606
+description: ''
+gutenberg_issued: '2017-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53902'
+  lccn: 08002759
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France. Armée. Légion étrangère'
+- !lcc 'DS'
+- !lcsh 'Algeria -- History'
+- !lcsh 'Vietnam, Northern -- History'
+- GITenberg
+title: 'A Soldier of the Legion
+
+  An Englishman''s Adventures Under the French Flag in Algeria and Tonquin'
+url: http://www.gutenberg.org/ebooks/53902
